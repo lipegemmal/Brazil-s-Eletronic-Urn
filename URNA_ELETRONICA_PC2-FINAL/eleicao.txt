@@ -1,0 +1,7 @@
+Dados da Eleição:
+ Cargo: Presidente da Republica
+ Município: Goiania
+ UF: GO
+ Zona Eleitoral: 001
+ Seção: 01
+ Turno: 1

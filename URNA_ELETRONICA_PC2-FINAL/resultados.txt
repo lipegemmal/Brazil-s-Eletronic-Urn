@@ -1,0 +1,31 @@
+Instituto de Informática 
+Universidade Federal de Goiás (UFG)
+
+Dados da Eleição:
+Cargo: Presidente da Republica
+Município: Goiania
+UF: GO
+Zona Eleitoral: 001
+Seção: 01
+Turno: 1
+
+
+
+NÚMERO DO CANDIDATO(A): 13 
+PARTIDO: PT 
+NOME DO CANDIDATO(A): Dilma Rousseff 
+VICE-CANDIDATO(A):Michel Temmer 
+QUANTIDADE DE VOTOS: 3 
+PORCENTAGEM: %75,000000 
+
+NÚMERO DO CANDIDATO(A): 45 
+PARTIDO: PSDB 
+NOME DO CANDIDATO(A): Aecio Neves 
+VICE-CANDIDATO(A):Aloysio Nunes Ferreira 
+QUANTIDADE DE VOTOS: 1 
+PORCENTAGEM: %25,000000 
+
+Final: 
+Brancos/Nulos:2 
+Votos totais: 6
+Votos válidos: 4
